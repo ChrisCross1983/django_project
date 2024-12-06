@@ -8,3 +8,4 @@ setuptools==75.6.0
 SQLAlchemy==1.4.46
 sqlparse==0.5.2
 tzdata==2024.2
+whitenoise==6.5.0
